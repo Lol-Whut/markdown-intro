@@ -76,5 +76,6 @@ You can also organize information in markdown using a table, like this:
 | ---------- | ---------- |
 | Tiny Buttons | 6 |
 | Charlie | 1 |
+| Eve | 10 |
 
 ## Great Job!

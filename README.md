@@ -68,7 +68,7 @@ We already practiced linking to other sites when we linked to the [markdown chea
 
 ![picture of a cat](https://cdn.shopify.com/s/files/1/1788/4235/files/PPF-BlogUpdate-Thumbs_0041_42_Cat-Stages.jpg)
 
-### A Few Other Things
+### Tables
 
 You can also organize information in markdown using a table, like this:
 
@@ -76,9 +76,5 @@ You can also organize information in markdown using a table, like this:
 | ---------- | ---------- |
 | Tiny Buttons | 6 |
 | Charlie | 1 |
-
-When you have sources you need to cite, you can add footnotes to your text. [^1]
-
-[^1]: Like this.
 
 ## Great Job!

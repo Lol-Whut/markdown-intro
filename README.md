@@ -64,7 +64,7 @@ sayHi("Saima");
 
 ### Linking to external sites
 
-We already practiced linking to other sites when we linked to the [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) above. However, we can also link to and display images, like this picture we found online at https://cdn.shopify.com/s/files/1/1788/4235/files/PPF-BlogUpdate-Thumbs_0041_42_Cat-Stages.jpg:
+We already practiced linking to other sites when we linked to the [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) above. However, we can also link to and display images, like this picture:
 
 ![picture of a cat](https://cdn.shopify.com/s/files/1/1788/4235/files/PPF-BlogUpdate-Thumbs_0041_42_Cat-Stages.jpg)
 
